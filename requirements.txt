@@ -1,0 +1,10 @@
+datasets
+nltk
+scikit-learn
+rank_bm25
+sentence-transformers
+numpy
+pandas
+matplotlib
+streamlit
+jupyter
